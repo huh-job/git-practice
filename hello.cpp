@@ -2,6 +2,6 @@
 
 using namespace std;
 
-int main(int argc, char* argv[]) {
-	sout << "hello world!"; << endl;
+int main() {
+	cout << "hello world!" << endl;
 }
